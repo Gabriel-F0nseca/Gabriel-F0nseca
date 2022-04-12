@@ -21,7 +21,7 @@
   <img align="center" alt="Fonses-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fonses-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fonses-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="right" alt="Fonses" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/12K8GGWstl229G/200w.webp?cid=ecf05e47lx9xoti7ff0fby36b6ivpen0p911inwdk2yc89p8&rid=200w.webp&ct=g">
+    <img align="right" alt="Fonses" height="130" style="border-radius:50px;" src="https://media3.giphy.com/media/12K8GGWstl229G/200w.webp?cid=ecf05e47lx9xoti7ff0fby36b6ivpen0p911inwdk2yc89p8&rid=200w.webp&ct=g">
 </div>
 </div>
   
